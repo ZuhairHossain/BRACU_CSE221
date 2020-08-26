@@ -10,7 +10,7 @@ public class TaskOne {
         //System.out.println();
 
         //File file = new File("C:\\Users\\Hp\\Desktop\\Graph.txt");
-        File file = new File("C:\\Users\\Hp\\Desktop\\input.txt");
+        File file = new File("F:\\CSE221\\src\\Assignment_01\\input_TaskOne.txt");
         BufferedReader br = new BufferedReader(new FileReader(file));
         String st = br.readLine();
         int a = Integer.parseInt(st) + 1;
