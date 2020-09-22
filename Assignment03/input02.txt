@@ -1,0 +1,12 @@
+monkeys wearing coats are doctors because of evolution
+doctors monkeys wearing coats are results of eruption
+M:monkeys
+B:because
+W:wearing
+O:of
+C:coats
+E:evolution
+A:are
+R:results
+D:doctors
+P:eruption
